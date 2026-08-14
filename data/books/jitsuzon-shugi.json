@@ -39,7 +39,11 @@
   "keywords": [],
   "whoShouldRead": "",
   "books": {
-    "text": null,
+    "text": {
+      "title": "NHK「100分de名著」ブックス サルトル 実存主義とは何か",
+      "isbn": "9784140818121",
+      "publishedYear": 2020
+    },
     "original": [],
     "related": []
   },

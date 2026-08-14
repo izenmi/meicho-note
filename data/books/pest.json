@@ -74,8 +74,9 @@
   "whoShouldRead": "感染症の時代を経て読み直したい人。英雄的でない持ちこたえ方について考えたい人。カミュを『異邦人』以外でも読みたい人。",
   "books": {
     "text": {
-      "title": "NHK「100分de名著」ブックス カミュ ペスト",
-      "publishedYear": 2018
+      "title": "NHK「100分de名著」ブックス アルベール・カミュ ペスト",
+      "isbn": "9784140818299",
+      "publishedYear": 2020
     },
     "original": [
       {

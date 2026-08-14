@@ -43,7 +43,11 @@
   "keywords": [],
   "whoShouldRead": "",
   "books": {
-    "text": null,
+    "text": {
+      "title": "NHK「100分de名著」ブックス マーガレット・ミッチェル 風と共に去りぬ",
+      "isbn": "9784140819746",
+      "publishedYear": 2024
+    },
     "original": [],
     "related": []
   },

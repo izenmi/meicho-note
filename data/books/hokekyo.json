@@ -50,7 +50,11 @@
   "keywords": [],
   "whoShouldRead": "",
   "books": {
-    "text": null,
+    "text": {
+      "title": "NHK「100分de名著」ブックス 法華経",
+      "isbn": "9784140818572",
+      "publishedYear": 2021
+    },
     "original": [],
     "related": []
   },

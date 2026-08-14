@@ -47,7 +47,11 @@
   "keywords": [],
   "whoShouldRead": "",
   "books": {
-    "text": null,
+    "text": {
+      "title": "NHK「100分de名著」ブックス 貞観政要",
+      "isbn": "9784140819562",
+      "publishedYear": 2024
+    },
     "original": [],
     "related": []
   },

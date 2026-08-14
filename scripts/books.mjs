@@ -36,24 +36,36 @@ const only = args.find((a) => a.startsWith("--only="))?.slice(7).split(",").filt
 const OUT = join(ROOT, "data", "generated", "covers.json");
 const cache = existsSync(OUT) ? JSON.parse(readFileSync(OUT, "utf8")) : {};
 
-const ENDPOINT = "https://app.rakuten.co.jp/services/api/BooksBook/Search/20170404";
+// 2026年5月の刷新でドメインとパラメータが変わった。旧 app.rakuten.co.jp は廃止済み。
+//   - ドメイン: app.rakuten.co.jp → openapi.rakuten.co.jp（パスは /services/api/… のまま）
+//   - applicationId が UUID 形式になり、accessKey（pk_ で始まる）が必須に
+//   - **Origin ヘッダーが必須**。無いと 403 REQUEST_CONTEXT_BODY_HTTP_REFERRER_MISSING で弾かれる
+const ENDPOINT = "https://openapi.rakuten.co.jp/services/api/BooksBook/Search/20170404";
+const ORIGIN = "https://izenmi.github.io";
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 /** 楽天ブックス書籍検索。1秒1リクエストの目安を守る(429を踏むと数分止まる)。 */
 async function search(params) {
   const query = new URLSearchParams({
     applicationId: APP_ID,
-    affiliateId: "",           // アフィリエイトURLはこちらで組むので不要
+    accessKey: ACCESS_KEY,
     format: "json",
     hits: "10",
     ...params,
   });
   const url = `${ENDPOINT}?${query}`;
   for (let attempt = 0; attempt < 3; attempt++) {
-    const res = await fetch(url, { headers: { "user-agent": "meicho-note/1.0" } });
+    const res = await fetch(url, {
+      headers: {
+        origin: ORIGIN,
+        referer: `${ORIGIN}/meicho-note/`,
+        "user-agent": "meicho-note/1.0",
+      },
+    });
     if (res.status === 429) { await sleep(5000 * (attempt + 1)); continue; }
     if (!res.ok) { console.warn(`  ! ${res.status} ${res.statusText}`); return []; }
     const json = await res.json();
+    if (json.errors) { console.warn(`  ! ${json.errors.errorCode} ${json.errors.errorMessage}`); return []; }
     return (json.Items ?? []).map((i) => i.Item);
   }
   return [];
@@ -112,26 +124,87 @@ if (isbns.size) {
 // -------------------------------- (2) --text: 番組テキストのISBNを検索で探す
 
 if (TEXT_MODE) {
+  // 作品ごとに検索すると162回叩くうえ取り違えが多い(「論語」で『論語と算盤』が返る)。
+  // シリーズ名で全点を一度に引いてから、ローカルで作品名と突き合わせるほうが速く正確。
+  const series = [];
+  for (let page = 1; page <= 10; page++) {
+    const items = await search({ title: "100分de名著", hits: "30", page: String(page) });
+    if (!items.length) break;
+    series.push(...items);
+    await sleep(1100);
+    if (items.length < 30) break;
+  }
+  console.log(`シリーズ書籍 ${series.length}点を取得`);
+
+  /** 突き合わせ用の正規化。空白と約物を落とすだけ(語は消さない)。 */
+  const norm = (s) =>
+    String(s ?? "").replace(/[\s　]/g, "").replace(/[「」『』（）()【】・･,、。／/＋+!！?？:：-]/g, "");
+
+  /** シリーズ名の冠を外して「著者＋作品名」の部分だけ取り出す。 */
+  const strip = (title) =>
+    norm(title).replace(/^(NHK)?(別冊NHK)?(まんが)?(マンガでわかる)?100分de名著(ブックス)?(集中講義)?/, "");
+
   const found = [];
+  const rejected = [];
   for (const book of books) {
     if (book.books?.text?.isbn && !FORCE) continue;
-    // 「NHK 100分de名著 <作品名>」で引く。シリーズ名が固定なので当たりやすい。
-    const items = await search({ title: `100分de名著 ${book.title}`, booksGenreId: "001004008" });
-    const hit = items.find((i) => /100分de名著|100分 de 名著/.test(i.title ?? ""));
-    if (hit) {
-      const isbn = normalizeIsbn(hit.isbn);
-      found.push({ id: book.id, isbn, title: hit.title, salesDate: hit.salesDate });
-      if (isbn) record(isbn, hit);
-      console.log(`  ✓ ${book.id}  ${hit.title}  ISBN=${isbn}`);
-    } else {
-      console.log(`  · ${book.id}  「${book.title}」のテキストが見つかりませんでした`);
+    const key = norm(book.title);
+    if (!key) continue;
+
+    const candidates = series
+      .filter((i) => /100分de名著/.test(i.title ?? ""))   // シリーズ外の本を排除（『古事記の根源へ』など）
+      .map((i) => ({ item: i, rest: strip(i.title) }))
+      // 作品名は書名の**末尾**に来る。部分一致だと「論語」に『論語と算盤』が当たる
+      .filter((c) => c.rest.endsWith(key))
+      // 著者名が入っている書名なら、その著者が一致することも要求する
+      // （『幸福論』はアランとラッセルの2回があり、書名の著者部分でしか区別できない）
+      .filter((c) => {
+        const authorPart = c.rest.slice(0, c.rest.length - key.length);
+        if (!authorPart || !book.author) return true;
+        return norm(book.author).split("").some((ch) => authorPart.includes(ch))
+          ? authorPart.includes(norm(book.author)) || norm(book.author).includes(authorPart)
+          : false;
+      })
+      // 冠が短い＝通常のブックス版を、まんが版より優先する
+      .sort((a, b) => a.rest.length - b.rest.length);
+
+    if (!candidates.length) {
+      const loose = series.filter((i) => norm(i.title).includes(key));
+      if (loose.length) rejected.push(`${book.id}（${book.title}）← ${loose[0].title}`);
+      continue;
     }
-    await sleep(1100);
+    const hit = candidates[0].item;
+    const isbn = normalizeIsbn(hit.isbn);
+    found.push({ id: book.id, work: book.title, isbn, title: hit.title, salesDate: hit.salesDate });
+    if (isbn) record(isbn, hit);
+    console.log(`  ✓ ${book.id.padEnd(28)} ${hit.title}`);
+  }
+  if (rejected.length) {
+    console.log(`\n  照合が緩ければ当たったが、別作品と判断して除外したもの ${rejected.length}件:`);
+    for (const r of rejected) console.log(`   × ${r}`);
   }
   save();
   const outFile = join(ROOT, ".cache", "text-isbn.json");
   mkdirSync(join(ROOT, ".cache"), { recursive: true });
   writeFileSync(outFile, JSON.stringify(found, null, 2) + "\n");
-  console.log(`\n番組テキスト ${found.length}/${books.length}件を検出 → ${outFile}`);
-  console.log("data/books/*.json の books.text へ反映するのは手作業です(取り違えを目で確認するため)。");
+  console.log(`\n番組テキスト ${found.length}/${books.length}件を突き合わせ → ${outFile}`);
+
+  // --write-text を付けたときだけ data/books/*.json の books.text を差し替える。
+  // 触るのは books.text だけで、手書きの original / related には手を出さない。
+  if (process.argv.includes("--write-text")) {
+    for (const f of found) {
+      const file = join(ROOT, "data", "books", `${f.id}.json`);
+      const json = JSON.parse(readFileSync(file, "utf8"));
+      json.books = json.books ?? { text: null, original: [], related: [] };
+      json.books.text = {
+        title: f.title.replace(/[\s　]+/g, " ").trim(),
+        isbn: f.isbn,
+        publishedYear: Number(String(f.salesDate ?? "").slice(0, 4)) || undefined,
+      };
+      writeFileSync(file, JSON.stringify(json, null, 2) + "\n");
+    }
+    console.log(`data/books/*.json の books.text を ${found.length}件更新しました。`);
+  } else {
+    console.log("反映するには --write-text を付けて実行してください（先に上の一覧を目で確認すること）。");
+  }
 }

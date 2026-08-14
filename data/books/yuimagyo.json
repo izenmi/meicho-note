@@ -37,7 +37,11 @@
   "keywords": [],
   "whoShouldRead": "",
   "books": {
-    "text": null,
+    "text": {
+      "title": "NHK「100分de名著」ブックス 維摩経",
+      "isbn": "9784140818879",
+      "publishedYear": 2022
+    },
     "original": [],
     "related": []
   },

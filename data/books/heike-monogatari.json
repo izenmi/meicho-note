@@ -81,8 +81,9 @@
   "whoShouldRead": "日本の古典を物語として楽しみたい人。音読して味わう文学に興味がある人。歴史上の敗者の側から時代を見たい人。",
   "books": {
     "text": {
-      "title": "NHK「100分de名著」ブックス 平家物語",
-      "publishedYear": 2019
+      "title": "別冊NHK100分de名著 集中講義 平家物語",
+      "isbn": "9784144072833",
+      "publishedYear": 2022
     },
     "original": [
       {

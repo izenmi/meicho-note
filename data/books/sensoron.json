@@ -43,7 +43,11 @@
   "keywords": [],
   "whoShouldRead": "",
   "books": {
-    "text": null,
+    "text": {
+      "title": "NHK「100分de名著」ブックス ロジェ・カイヨワ 戦争論",
+      "isbn": "9784140819692",
+      "publishedYear": 2024
+    },
     "original": [],
     "related": []
   },

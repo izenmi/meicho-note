@@ -43,7 +43,11 @@
   "keywords": [],
   "whoShouldRead": "",
   "books": {
-    "text": null,
+    "text": {
+      "title": "NHK「100分de名著」ブックス ユゴー ノートル＝ダム・ド・パリ",
+      "isbn": "9784140817896",
+      "publishedYear": 2019
+    },
     "original": [],
     "related": []
   },
