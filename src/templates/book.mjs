@@ -174,6 +174,8 @@ ${episodes}
     path: book.href,
     breadcrumbs,
     jsonLd,
+    // ページ別OG画像は解説を公開した回だけ焼いている(scripts/ogimage.mjs --books)
+    ogImage: book.ready ? `og/books/${book.id}.png` : "og/default.png",
     noindex: !book.ready,
     body: `
 <div class="wrap">

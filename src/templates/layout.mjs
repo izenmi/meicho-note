@@ -25,6 +25,7 @@ export function layout({
   noindex = false,
   bodyClass = "",
   head = "",
+  ogImage = "og/default.png",
 }) {
   const fullTitle = path === "" ? `${SITE.title}｜${SITE.tagline}` : `${title}｜${SITE.title}`;
   const desc = (description || SITE.description).replace(/\s+/g, " ").slice(0, 160);
@@ -57,7 +58,7 @@ ${when(noindex, '<meta name="robots" content="noindex" />')}
 <meta property="og:title" content="${attr(fullTitle)}" />
 <meta property="og:description" content="${attr(desc)}" />
 <meta property="og:url" content="${attr(url)}" />
-<meta property="og:image" content="${attr(absolute("og/default.png"))}" />
+<meta property="og:image" content="${attr(absolute(ogImage))}" />
 <meta name="twitter:card" content="summary_large_image" />
 <link rel="icon" href="${attr(href("favicon.svg"))}" type="image/svg+xml" />
 <link rel="apple-touch-icon" href="${attr(href("apple-touch-icon.png"))}" />
