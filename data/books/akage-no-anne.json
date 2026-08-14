@@ -1,0 +1,48 @@
+{
+  "id": "akage-no-anne",
+  "title": "赤毛のアン",
+  "titleKana": "",
+  "titles": [
+    "赤毛のアン"
+  ],
+  "author": "モンゴメリ",
+  "authorIds": [
+    "モンゴメリ"
+  ],
+  "genreId": "literature-world",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2018,
+    "month": 10,
+    "guideIds": [
+      "茂木健一郎"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "上白石萌音"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

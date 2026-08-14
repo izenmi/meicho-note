@@ -1,0 +1,61 @@
+{
+  "id": "genji-monogatari",
+  "title": "源氏物語",
+  "titleKana": "",
+  "titles": [
+    "源氏物語"
+  ],
+  "author": "紫式部",
+  "authorIds": [
+    "紫式部"
+  ],
+  "genreId": "classic-jp",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2012,
+    "month": 4,
+    "guideIds": [
+      "三田村雅子"
+    ],
+    "hosts": [
+      "伊集院光",
+      "島津有理子"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "原田裕和"
+      },
+      {
+        "role": "朗読",
+        "name": "安部みちこ"
+      },
+      {
+        "role": "朗読",
+        "name": "紫式部役：江口のりこ"
+      }
+    ],
+    "note": "2012年7月に再放送。 2024年1月13日未明に総合テレビで再放送。 2024年4月7日 0:40（6日深夜）総合テレビで再放送。"
+  },
+  "reruns": [
+    {
+      "year": 2012,
+      "month": 7
+    }
+  ],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

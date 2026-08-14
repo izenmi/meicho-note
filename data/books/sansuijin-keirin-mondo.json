@@ -1,0 +1,52 @@
+{
+  "id": "sansuijin-keirin-mondo",
+  "title": "三酔人経綸問答",
+  "titleKana": "",
+  "titles": [
+    "三酔人経綸問答"
+  ],
+  "author": "中江兆民",
+  "authorIds": [
+    "中江兆民"
+  ],
+  "genreId": "society",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2023,
+    "month": 12,
+    "guideIds": [
+      "平田オリザ"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "岡部たかし"
+      },
+      {
+        "role": "語り",
+        "name": "武内陶子"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "kaneko-misuzu-shishu",
+  "title": "金子みすゞ詩集",
+  "titleKana": "",
+  "titles": [
+    "金子みすゞ詩集"
+  ],
+  "author": "",
+  "authorIds": [],
+  "genreId": "literature-jp",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2022,
+    "month": 1,
+    "guideIds": [
+      "松本侑子"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "石橋静河"
+      },
+      {
+        "role": "語り",
+        "name": "加藤有生子"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "nihon-no-omokage",
+  "title": "日本の面影",
+  "titleKana": "",
+  "titles": [
+    "日本の面影"
+  ],
+  "author": "小泉八雲",
+  "authorIds": [
+    "小泉八雲"
+  ],
+  "genreId": "history",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2015,
+    "month": 7,
+    "guideIds": [
+      "池田雅之"
+    ],
+    "hosts": [
+      "伊集院光",
+      "武内陶子"
+    ],
+    "credits": [
+      {
+        "role": "語り",
+        "name": "好本恵"
+      },
+      {
+        "role": "朗読",
+        "name": "佐野史郎"
+      }
+    ],
+    "note": "2025年11月30日 1:00（29日深夜）再放送。"
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

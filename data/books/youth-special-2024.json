@@ -1,0 +1,92 @@
+{
+  "id": "youth-special-2024",
+  "title": "100分de名著 for ユース",
+  "titleKana": "",
+  "titles": [
+    "古代への情熱",
+    "道をひらく",
+    "思い出のマーニー",
+    "石垣りん詩集"
+  ],
+  "author": "",
+  "authorIds": [],
+  "genreId": "literature-world",
+  "kind": "special",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2024,
+    "month": 3,
+    "guideIds": [
+      "齋藤孝",
+      "土井英司",
+      "河合俊雄",
+      "文月悠光"
+    ],
+    "hosts": [
+      "加藤シゲアキ",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "藤間爽子"
+      },
+      {
+        "role": "語り",
+        "name": "矢野香"
+      }
+    ],
+    "note": "同年5月19日、5月26日再放送。"
+  },
+  "reruns": [],
+  "special": {
+    "label": "100分de名著 for ユース",
+    "parts": [
+      {
+        "no": 1,
+        "subtitle": "シュリーマン",
+        "titles": [
+          "古代への情熱"
+        ],
+        "guide": "齋藤孝"
+      },
+      {
+        "no": 2,
+        "subtitle": "松下幸之助",
+        "titles": [
+          "道をひらく"
+        ],
+        "guide": "土井英司"
+      },
+      {
+        "no": 3,
+        "subtitle": "ロビンソン",
+        "titles": [
+          "思い出のマーニー"
+        ],
+        "guide": "河合俊雄"
+      },
+      {
+        "no": 4,
+        "subtitle": "",
+        "titles": [
+          "石垣りん詩集"
+        ],
+        "guide": "文月悠光"
+      }
+    ]
+  },
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

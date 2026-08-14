@@ -1,0 +1,43 @@
+{
+  "id": "bushido",
+  "title": "武士道",
+  "titleKana": "",
+  "titles": [
+    "武士道"
+  ],
+  "author": "新渡戸稲造",
+  "authorIds": [
+    "新渡戸稲造"
+  ],
+  "genreId": "society",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2012,
+    "month": 2,
+    "guideIds": [
+      "山本博文"
+    ],
+    "hosts": [
+      "堀尾正明",
+      "瀧口友里奈"
+    ],
+    "credits": [],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

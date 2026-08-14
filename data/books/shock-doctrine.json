@@ -1,0 +1,52 @@
+{
+  "id": "shock-doctrine",
+  "title": "ショック・ドクトリン",
+  "titleKana": "",
+  "titles": [
+    "ショック・ドクトリン"
+  ],
+  "author": "ナオミ・クライン",
+  "authorIds": [
+    "ナオミ・クライン"
+  ],
+  "genreId": "economy",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2023,
+    "month": 6,
+    "guideIds": [
+      "堤未果"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "板谷由夏"
+      },
+      {
+        "role": "語り",
+        "name": "藤井千夏"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

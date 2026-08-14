@@ -1,0 +1,91 @@
+{
+  "id": "hemingway-special",
+  "title": "ヘミングウェイスペシャル",
+  "titleKana": "",
+  "titles": [
+    "老人と海",
+    "老人と海",
+    "敗れざる者",
+    "移動祝祭日"
+  ],
+  "author": "ヘミングウェイ",
+  "authorIds": [
+    "ヘミングウェイ"
+  ],
+  "genreId": "literature-world",
+  "kind": "special",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2021,
+    "month": 10,
+    "guideIds": [
+      "都甲幸治"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "寺脇康文"
+      },
+      {
+        "role": "語り",
+        "name": "小口貴子"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": {
+    "label": "ヘミングウェイスペシャル",
+    "parts": [
+      {
+        "no": 1,
+        "subtitle": "大いなる自然との対峙",
+        "titles": [
+          "老人と海"
+        ],
+        "guide": ""
+      },
+      {
+        "no": 2,
+        "subtitle": "死闘から持ち帰った不屈の塊",
+        "titles": [
+          "老人と海"
+        ],
+        "guide": ""
+      },
+      {
+        "no": 3,
+        "subtitle": "交錯する「生」と「死」",
+        "titles": [
+          "敗れざる者"
+        ],
+        "guide": ""
+      },
+      {
+        "no": 4,
+        "subtitle": "作家ヘミングウェイ誕生の軌跡",
+        "titles": [
+          "移動祝祭日"
+        ],
+        "guide": ""
+      }
+    ]
+  },
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

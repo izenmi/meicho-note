@@ -1,0 +1,56 @@
+{
+  "id": "nejimakidori",
+  "title": "ねじまき鳥クロニクル",
+  "titleKana": "",
+  "titles": [
+    "ねじまき鳥クロニクル"
+  ],
+  "author": "村上春樹",
+  "authorIds": [
+    "村上春樹"
+  ],
+  "genreId": "literature-jp",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2025,
+    "month": 4,
+    "guideIds": [
+      "沼野充義"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "大石将弘"
+      },
+      {
+        "role": "朗読",
+        "name": "青柳いづみ"
+      },
+      {
+        "role": "語り",
+        "name": "加藤有生子"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

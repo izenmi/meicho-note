@@ -1,0 +1,52 @@
+{
+  "id": "shihonron-2021",
+  "title": "資本論",
+  "titleKana": "",
+  "titles": [
+    "資本論"
+  ],
+  "author": "マルクス",
+  "authorIds": [
+    "マルクス"
+  ],
+  "genreId": "economy",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2021,
+    "month": 1,
+    "guideIds": [
+      "斎藤幸平"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "岡山天音"
+      },
+      {
+        "role": "語り",
+        "name": "目黒泉"
+      }
+    ],
+    "note": "同年12月、レギュラー枠で再放送。"
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

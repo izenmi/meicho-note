@@ -1,0 +1,52 @@
+{
+  "id": "senso-wa-onna-no-kao",
+  "title": "戦争は女の顔をしていない",
+  "titleKana": "",
+  "titles": [
+    "戦争は女の顔をしていない"
+  ],
+  "author": "アレクシエーヴィチ",
+  "authorIds": [
+    "アレクシエーヴィチ"
+  ],
+  "genreId": "history",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2021,
+    "month": 8,
+    "guideIds": [
+      "沼野恭子"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "杏"
+      },
+      {
+        "role": "語り",
+        "name": "加藤有生子"
+      }
+    ],
+    "note": "オリンピック番組放送のため第一週は休止し、 第二週(8月9日)から放送。 2022年4月23日 1:00（22日深夜）再放送。"
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

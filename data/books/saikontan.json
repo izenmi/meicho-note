@@ -1,0 +1,73 @@
+{
+  "id": "saikontan",
+  "title": "菜根譚",
+  "titleKana": "",
+  "titles": [
+    "菜根譚"
+  ],
+  "author": "洪自誠",
+  "authorIds": [
+    "洪自誠"
+  ],
+  "genreId": "philosophy",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2014,
+    "month": 11,
+    "guideIds": [
+      "湯浅邦弘"
+    ],
+    "hosts": [
+      "伊集院光",
+      "武内陶子"
+    ],
+    "credits": [
+      {
+        "role": "語り",
+        "name": "小野卓司"
+      },
+      {
+        "role": "朗読",
+        "name": "平泉成"
+      },
+      {
+        "role": "朗読",
+        "name": "高野アツシオ"
+      },
+      {
+        "role": "朗読",
+        "name": "碧戸結香"
+      },
+      {
+        "role": "朗読",
+        "name": "森塚一真"
+      },
+      {
+        "role": "朗読",
+        "name": "松田慎也"
+      }
+    ],
+    "note": "2015年10月度で再放送。"
+  },
+  "reruns": [
+    {
+      "year": 2015,
+      "month": 10
+    }
+  ],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

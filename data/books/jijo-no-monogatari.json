@@ -1,0 +1,53 @@
+{
+  "id": "jijo-no-monogatari",
+  "title": "侍女の物語",
+  "titleKana": "",
+  "titles": [
+    "侍女の物語",
+    "誓願"
+  ],
+  "author": "アトウッド",
+  "authorIds": [
+    "アトウッド"
+  ],
+  "genreId": "literature-world",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2025,
+    "month": 6,
+    "guideIds": [
+      "鴻巣友季子"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "安藤玉恵"
+      },
+      {
+        "role": "語り",
+        "name": "加藤有生子"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

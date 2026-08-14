@@ -1,0 +1,52 @@
+{
+  "id": "europe-shogaku-no-kiki",
+  "title": "ヨーロッパ諸学の危機と超越論的現象学",
+  "titleKana": "",
+  "titles": [
+    "ヨーロッパ諸学の危機と超越論的現象学"
+  ],
+  "author": "フッサール",
+  "authorIds": [
+    "フッサール"
+  ],
+  "genreId": "philosophy",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2025,
+    "month": 7,
+    "guideIds": [
+      "西研"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "眞島秀和"
+      },
+      {
+        "role": "語り",
+        "name": "小口貴子"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

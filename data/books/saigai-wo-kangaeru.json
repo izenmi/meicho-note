@@ -1,0 +1,89 @@
+{
+  "id": "saigai-wo-kangaeru",
+  "title": "100分de災害を考える",
+  "titleKana": "",
+  "titles": [
+    "天災と日本人",
+    "先祖の話",
+    "生の短さについて",
+    "14歳からの哲学"
+  ],
+  "author": "",
+  "authorIds": [],
+  "genreId": "society",
+  "kind": "special",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2021,
+    "month": 3,
+    "guideIds": [
+      "若松英輔"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "滝藤賢一"
+      },
+      {
+        "role": "語り",
+        "name": "加藤有生子"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": {
+    "label": "100分de災害を考える",
+    "parts": [
+      {
+        "no": 1,
+        "subtitle": "「自然」と対話する 寺田寅彦",
+        "titles": [
+          "天災と日本人"
+        ],
+        "guide": ""
+      },
+      {
+        "no": 2,
+        "subtitle": "見えざる隣人としての「死者」 柳田國男",
+        "titles": [
+          "先祖の話"
+        ],
+        "guide": ""
+      },
+      {
+        "no": 3,
+        "subtitle": "「明日の不確かさ」を胸に刻む セネカ",
+        "titles": [
+          "生の短さについて"
+        ],
+        "guide": ""
+      },
+      {
+        "no": 4,
+        "subtitle": "「生きる意味」を問いなおす 池田晶子",
+        "titles": [
+          "14歳からの哲学"
+        ],
+        "guide": ""
+      }
+    ]
+  },
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

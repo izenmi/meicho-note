@@ -1,0 +1,52 @@
+{
+  "id": "distinction",
+  "title": "ディスタンクシオン",
+  "titleKana": "",
+  "titles": [
+    "ディスタンクシオン"
+  ],
+  "author": "ブルデュー",
+  "authorIds": [
+    "ブルデュー"
+  ],
+  "genreId": "society",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2020,
+    "month": 12,
+    "guideIds": [
+      "岸政彦"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "国村隼"
+      },
+      {
+        "role": "語り",
+        "name": "加藤有生子"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

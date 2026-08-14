@@ -1,0 +1,50 @@
+{
+  "id": "kojiki",
+  "title": "古事記",
+  "titleKana": "",
+  "titles": [
+    "古事記"
+  ],
+  "author": "",
+  "authorIds": [],
+  "genreId": "classic-jp",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2013,
+    "month": 9,
+    "guideIds": [
+      "三浦佑之"
+    ],
+    "hosts": [
+      "伊集院光",
+      "武内陶子"
+    ],
+    "credits": [
+      {
+        "role": "語り",
+        "name": "久保田祐佳"
+      },
+      {
+        "role": "朗読",
+        "name": "イッセー尾形"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

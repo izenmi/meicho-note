@@ -1,0 +1,52 @@
+{
+  "id": "heidi",
+  "title": "アルプスの少女ハイジ",
+  "titleKana": "",
+  "titles": [
+    "アルプスの少女ハイジ"
+  ],
+  "author": "ヨハンナ・シュピリ",
+  "authorIds": [
+    "ヨハンナ・シュピリ"
+  ],
+  "genreId": "literature-world",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2019,
+    "month": 6,
+    "guideIds": [
+      "松永美穂"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "語り",
+        "name": "目黒泉"
+      },
+      {
+        "role": "朗読",
+        "name": "安達祐実"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

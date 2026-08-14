@@ -1,0 +1,97 @@
+{
+  "id": "sherlock-holmes-special",
+  "title": "シャーロック・ホームズ スペシャル",
+  "titleKana": "",
+  "titles": [
+    "緋色の研究",
+    "赤毛組合",
+    "唇のねじれた男",
+    "ボヘミアの醜聞",
+    "サセックスの吸血鬼",
+    "ボール箱",
+    "ボスコム谷の謎"
+  ],
+  "author": "シャーロック・ホームズ",
+  "authorIds": [
+    "シャーロック・ホームズ"
+  ],
+  "genreId": "literature-world",
+  "kind": "special",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2023,
+    "month": 9,
+    "guideIds": [
+      "廣野由美子"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "山寺宏一"
+      },
+      {
+        "role": "語り",
+        "name": "小口貴子"
+      }
+    ],
+    "note": "第1回は2024年1月1日23時から再放送予定だったが、 同日夕方に発生した能登半島地震により休止。 1月13日14時から急遽放送された。"
+  },
+  "reruns": [],
+  "special": {
+    "label": "シャーロック・ホームズ スペシャル",
+    "parts": [
+      {
+        "no": 1,
+        "subtitle": "名探偵の誕生",
+        "titles": [
+          "緋色の研究"
+        ],
+        "guide": ""
+      },
+      {
+        "no": 2,
+        "subtitle": "事件の表層と真相",
+        "titles": [
+          "赤毛組合",
+          "唇のねじれた男"
+        ],
+        "guide": ""
+      },
+      {
+        "no": 3,
+        "subtitle": "ホームズと女性",
+        "titles": [
+          "ボヘミアの醜聞",
+          "サセックスの吸血鬼"
+        ],
+        "guide": ""
+      },
+      {
+        "no": 4,
+        "subtitle": "人間性の闇と光",
+        "titles": [
+          "ボール箱",
+          "ボスコム谷の謎"
+        ],
+        "guide": ""
+      }
+    ]
+  },
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

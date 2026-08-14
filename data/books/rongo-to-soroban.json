@@ -1,0 +1,52 @@
+{
+  "id": "rongo-to-soroban",
+  "title": "論語と算盤",
+  "titleKana": "",
+  "titles": [
+    "論語と算盤"
+  ],
+  "author": "渋沢栄一",
+  "authorIds": [
+    "渋沢栄一"
+  ],
+  "genreId": "economy",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2021,
+    "month": 4,
+    "guideIds": [
+      "守屋淳"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "小野武彦"
+      },
+      {
+        "role": "語り",
+        "name": "内藤裕子"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

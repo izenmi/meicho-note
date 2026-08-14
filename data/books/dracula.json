@@ -1,0 +1,52 @@
+{
+  "id": "dracula",
+  "title": "ドラキュラ",
+  "titleKana": "",
+  "titles": [
+    "ドラキュラ"
+  ],
+  "author": "ブラム・ストーカー",
+  "authorIds": [
+    "ブラム・ストーカー"
+  ],
+  "genreId": "literature-world",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2025,
+    "month": 10,
+    "guideIds": [
+      "小川公代"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "満島真之介"
+      },
+      {
+        "role": "語り",
+        "name": "加藤有生子"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

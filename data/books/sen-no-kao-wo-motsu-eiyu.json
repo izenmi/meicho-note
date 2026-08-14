@@ -1,0 +1,52 @@
+{
+  "id": "sen-no-kao-wo-motsu-eiyu",
+  "title": "千の顔を持つ英雄",
+  "titleKana": "",
+  "titles": [
+    "千の顔を持つ英雄"
+  ],
+  "author": "キャンベル",
+  "authorIds": [
+    "キャンベル"
+  ],
+  "genreId": "art",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2024,
+    "month": 7,
+    "guideIds": [
+      "佐宗邦威"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "吹越満"
+      },
+      {
+        "role": "語り",
+        "name": "墨屋那津子"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

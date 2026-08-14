@@ -1,0 +1,54 @@
+{
+  "id": "kokin-wakashu",
+  "title": "古今和歌集",
+  "titleKana": "",
+  "titles": [
+    "古今和歌集"
+  ],
+  "author": "",
+  "authorIds": [],
+  "genreId": "classic-jp",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2023,
+    "month": 11,
+    "guideIds": [
+      "渡部泰明"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "篠井英介"
+      },
+      {
+        "role": "語り",
+        "name": "加藤有生子"
+      },
+      {
+        "role": "朗読",
+        "name": "ゲスト：高樹のぶ子"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "jiseiroku",
+  "title": "自省録",
+  "titleKana": "",
+  "titles": [
+    "自省録"
+  ],
+  "author": "マルクス・アウレリウス",
+  "authorIds": [
+    "マルクス・アウレリウス"
+  ],
+  "genreId": "philosophy",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2019,
+    "month": 4,
+    "guideIds": [
+      "岸見一郎"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "渡辺大"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

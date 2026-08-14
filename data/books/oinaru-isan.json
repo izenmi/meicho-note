@@ -1,0 +1,52 @@
+{
+  "id": "oinaru-isan",
+  "title": "大いなる遺産",
+  "titleKana": "",
+  "titles": [
+    "大いなる遺産"
+  ],
+  "author": "ディケンズ",
+  "authorIds": [
+    "ディケンズ"
+  ],
+  "genreId": "literature-world",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2026,
+    "month": 5,
+    "guideIds": [
+      "河野真太郎"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "濱田龍臣"
+      },
+      {
+        "role": "語り",
+        "name": "小坂由里子"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

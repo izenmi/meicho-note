@@ -1,0 +1,52 @@
+{
+  "id": "emile",
+  "title": "エミール",
+  "titleKana": "",
+  "titles": [
+    "エミール"
+  ],
+  "author": "ルソー",
+  "authorIds": [
+    "ルソー"
+  ],
+  "genreId": "philosophy",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2016,
+    "month": 6,
+    "guideIds": [
+      "西研"
+    ],
+    "hosts": [
+      "伊集院光",
+      "礒野佑子"
+    ],
+    "credits": [
+      {
+        "role": "語り",
+        "name": "加藤有生子"
+      },
+      {
+        "role": "朗読",
+        "name": "要潤"
+      }
+    ],
+    "note": "2017年2月19日にEテレセレクション枠で再放送。"
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

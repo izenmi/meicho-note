@@ -1,0 +1,87 @@
+{
+  "id": "matsumoto-seicho-special",
+  "title": "松本清張スペシャル",
+  "titleKana": "",
+  "titles": [
+    "点と線",
+    "砂の器",
+    "昭和史発掘",
+    "神々の乱心"
+  ],
+  "author": "松本清張",
+  "authorIds": [
+    "松本清張"
+  ],
+  "genreId": "literature-jp",
+  "kind": "special",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2018,
+    "month": 3,
+    "guideIds": [
+      "原武史"
+    ],
+    "hosts": [
+      "伊集院光",
+      "島津有理子"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "長塚圭史"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": {
+    "label": "松本清張スペシャル",
+    "parts": [
+      {
+        "no": 1,
+        "subtitle": "",
+        "titles": [
+          "点と線"
+        ],
+        "guide": ""
+      },
+      {
+        "no": 2,
+        "subtitle": "",
+        "titles": [
+          "砂の器"
+        ],
+        "guide": ""
+      },
+      {
+        "no": 3,
+        "subtitle": "",
+        "titles": [
+          "昭和史発掘"
+        ],
+        "guide": ""
+      },
+      {
+        "no": 4,
+        "subtitle": "",
+        "titles": [
+          "神々の乱心"
+        ],
+        "guide": ""
+      }
+    ]
+  },
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "sonshi",
+  "title": "孫子",
+  "titleKana": "",
+  "titles": [
+    "孫子"
+  ],
+  "author": "",
+  "authorIds": [],
+  "genreId": "society",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2014,
+    "month": 3,
+    "guideIds": [
+      "湯浅邦弘"
+    ],
+    "hosts": [
+      "伊集院光",
+      "武内陶子"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "孫武役：斉木しげる"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

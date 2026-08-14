@@ -1,0 +1,53 @@
+{
+  "id": "ronri-tetsugaku-ronko",
+  "title": "論理哲学論考",
+  "titleKana": "",
+  "titles": [
+    "論理哲学論考",
+    "哲学探究"
+  ],
+  "author": "ウィトゲンシュタイン",
+  "authorIds": [
+    "ウィトゲンシュタイン"
+  ],
+  "genreId": "philosophy",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2026,
+    "month": 4,
+    "guideIds": [
+      "古田徹也"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "田中泯"
+      },
+      {
+        "role": "語り",
+        "name": "小口貴子"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

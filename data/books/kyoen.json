@@ -1,0 +1,48 @@
+{
+  "id": "kyoen",
+  "title": "饗宴",
+  "titleKana": "",
+  "titles": [
+    "饗宴"
+  ],
+  "author": "プラトン",
+  "authorIds": [
+    "プラトン"
+  ],
+  "genreId": "philosophy",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2013,
+    "month": 7,
+    "guideIds": [
+      "納富信留"
+    ],
+    "hosts": [
+      "伊集院光",
+      "武内陶子"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "三輪秀香"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

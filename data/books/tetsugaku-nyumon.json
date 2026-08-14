@@ -1,0 +1,52 @@
+{
+  "id": "tetsugaku-nyumon",
+  "title": "哲学入門",
+  "titleKana": "",
+  "titles": [
+    "哲学入門"
+  ],
+  "author": "ヤスパース",
+  "authorIds": [
+    "ヤスパース"
+  ],
+  "genreId": "philosophy",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2026,
+    "month": 2,
+    "guideIds": [
+      "戸谷洋志"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "渋川清彦"
+      },
+      {
+        "role": "語り",
+        "name": "浅野真澄"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

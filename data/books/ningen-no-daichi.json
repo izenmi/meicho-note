@@ -1,0 +1,52 @@
+{
+  "id": "ningen-no-daichi",
+  "title": "人間の大地",
+  "titleKana": "",
+  "titles": [
+    "人間の大地"
+  ],
+  "author": "サン＝テグジュペリ",
+  "authorIds": [
+    "サン＝テグジュペリ"
+  ],
+  "genreId": "literature-world",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2025,
+    "month": 8,
+    "guideIds": [
+      "野崎歓"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "山口馬木也"
+      },
+      {
+        "role": "語り",
+        "name": "目黒泉"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

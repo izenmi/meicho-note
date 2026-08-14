@@ -1,0 +1,52 @@
+{
+  "id": "inochi-no-shoya",
+  "title": "いのちの初夜",
+  "titleKana": "",
+  "titles": [
+    "いのちの初夜"
+  ],
+  "author": "北條民雄",
+  "authorIds": [
+    "北條民雄"
+  ],
+  "genreId": "literature-jp",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2023,
+    "month": 2,
+    "guideIds": [
+      "中江有里"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "本郷奏多"
+      },
+      {
+        "role": "語り",
+        "name": "島津有理子"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

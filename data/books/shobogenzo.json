@@ -1,0 +1,48 @@
+{
+  "id": "shobogenzo",
+  "title": "正法眼蔵",
+  "titleKana": "",
+  "titles": [
+    "正法眼蔵"
+  ],
+  "author": "道元",
+  "authorIds": [
+    "道元"
+  ],
+  "genreId": "religion",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2016,
+    "month": 11,
+    "guideIds": [
+      "ひろさちや"
+    ],
+    "hosts": [
+      "伊集院光",
+      "礒野佑子"
+    ],
+    "credits": [
+      {
+        "role": "出演",
+        "name": "きたろう"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

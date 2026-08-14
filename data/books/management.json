@@ -1,0 +1,48 @@
+{
+  "id": "management",
+  "title": "マネジメント",
+  "titleKana": "",
+  "titles": [
+    "マネジメント"
+  ],
+  "author": "ドラッカー",
+  "authorIds": [
+    "ドラッカー"
+  ],
+  "genreId": "economy",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2011,
+    "month": 6,
+    "guideIds": [
+      "上田惇生"
+    ],
+    "hosts": [
+      "堀尾正明",
+      "瀧口友里奈"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "鹿沼健介"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

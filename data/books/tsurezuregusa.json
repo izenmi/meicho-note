@@ -1,0 +1,48 @@
+{
+  "id": "tsurezuregusa",
+  "title": "徒然草",
+  "titleKana": "",
+  "titles": [
+    "徒然草"
+  ],
+  "author": "兼好法師",
+  "authorIds": [
+    "兼好法師"
+  ],
+  "genreId": "classic-jp",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2012,
+    "month": 1,
+    "guideIds": [
+      "荻野文子"
+    ],
+    "hosts": [
+      "堀尾正明",
+      "瀧口友里奈"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "伊藤健三"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

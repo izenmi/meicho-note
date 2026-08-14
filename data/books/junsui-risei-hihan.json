@@ -1,0 +1,48 @@
+{
+  "id": "junsui-risei-hihan",
+  "title": "純粋理性批判",
+  "titleKana": "",
+  "titles": [
+    "純粋理性批判"
+  ],
+  "author": "カント",
+  "authorIds": [
+    "カント"
+  ],
+  "genreId": "philosophy",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2020,
+    "month": 6,
+    "guideIds": [
+      "西研"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "語り",
+        "name": "小坂由里子"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

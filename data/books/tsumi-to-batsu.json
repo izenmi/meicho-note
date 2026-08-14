@@ -1,0 +1,52 @@
+{
+  "id": "tsumi-to-batsu",
+  "title": "罪と罰",
+  "titleKana": "",
+  "titles": [
+    "罪と罰"
+  ],
+  "author": "ドストエフスキー",
+  "authorIds": [
+    "ドストエフスキー"
+  ],
+  "genreId": "literature-world",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2013,
+    "month": 12,
+    "guideIds": [
+      "亀山郁夫"
+    ],
+    "hosts": [
+      "伊集院光",
+      "礒野佑子"
+    ],
+    "credits": [
+      {
+        "role": "語り",
+        "name": "岩槻里子"
+      },
+      {
+        "role": "朗読",
+        "name": "金井勇太"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

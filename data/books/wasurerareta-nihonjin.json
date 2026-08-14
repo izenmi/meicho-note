@@ -1,0 +1,52 @@
+{
+  "id": "wasurerareta-nihonjin",
+  "title": "忘れられた日本人",
+  "titleKana": "",
+  "titles": [
+    "忘れられた日本人"
+  ],
+  "author": "宮本常一",
+  "authorIds": [
+    "宮本常一"
+  ],
+  "genreId": "history",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2024,
+    "month": 6,
+    "guideIds": [
+      "畑中章宏"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "立川志らく"
+      },
+      {
+        "role": "語り",
+        "name": "武内陶子"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

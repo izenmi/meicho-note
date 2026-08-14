@@ -1,0 +1,56 @@
+{
+  "id": "pinocchio",
+  "title": "ピノッキオの冒険",
+  "titleKana": "",
+  "titles": [
+    "ピノッキオの冒険"
+  ],
+  "author": "コッローディ",
+  "authorIds": [
+    "コッローディ"
+  ],
+  "genreId": "literature-world",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2020,
+    "month": 4,
+    "guideIds": [
+      "和田忠彦"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "伊藤沙莉"
+      },
+      {
+        "role": "語り",
+        "name": "加藤有生子"
+      },
+      {
+        "role": "朗読",
+        "name": "藤井彩子"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

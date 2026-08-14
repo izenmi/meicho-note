@@ -1,0 +1,99 @@
+{
+  "id": "edgar-allan-poe-special",
+  "title": "エドガー・アラン・ポースペシャル",
+  "titleKana": "",
+  "titles": [
+    "アーサー・ゴードン・ピムの冒険",
+    "アッシャー家の崩壊",
+    "黒猫",
+    "モルグ街の殺人"
+  ],
+  "author": "エドガー・アラン・ポー",
+  "authorIds": [
+    "エドガー・アラン・ポー"
+  ],
+  "genreId": "literature-world",
+  "kind": "special",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2022,
+    "month": 3,
+    "guideIds": [
+      "巽孝之"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "北村一輝"
+      },
+      {
+        "role": "語り",
+        "name": "よしいよしこ"
+      },
+      {
+        "role": "声",
+        "name": "羽室満"
+      },
+      {
+        "role": "声",
+        "name": "田丸裕臣"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": {
+    "label": "エドガー・アラン・ポースペシャル",
+    "parts": [
+      {
+        "no": 1,
+        "subtitle": "「ページの彼方」への旅",
+        "titles": [
+          "アーサー・ゴードン・ピムの冒険"
+        ],
+        "guide": ""
+      },
+      {
+        "no": 2,
+        "subtitle": "作家はジャンルを横断する",
+        "titles": [
+          "アッシャー家の崩壊"
+        ],
+        "guide": ""
+      },
+      {
+        "no": 3,
+        "subtitle": "「狩るもの」と「狩られるもの」",
+        "titles": [
+          "黒猫"
+        ],
+        "guide": ""
+      },
+      {
+        "no": 4,
+        "subtitle": "ミステリはここから生まれた",
+        "titles": [
+          "モルグ街の殺人"
+        ],
+        "guide": ""
+      }
+    ]
+  },
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "hao-no-ie",
+  "title": "覇王の家",
+  "titleKana": "",
+  "titles": [
+    "覇王の家"
+  ],
+  "author": "司馬遼太郎",
+  "authorIds": [
+    "司馬遼太郎"
+  ],
+  "genreId": "literature-jp",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2023,
+    "month": 8,
+    "guideIds": [
+      "安部龍太郎"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "小手伸也"
+      },
+      {
+        "role": "語り",
+        "name": "加藤有生子"
+      }
+    ],
+    "note": "2023年12月16日 1:20（15日深夜）再放送。"
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

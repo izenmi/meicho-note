@@ -1,0 +1,52 @@
+{
+  "id": "suna-no-onna",
+  "title": "砂の女",
+  "titleKana": "",
+  "titles": [
+    "砂の女"
+  ],
+  "author": "安部公房",
+  "authorIds": [
+    "安部公房"
+  ],
+  "genreId": "literature-jp",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2022,
+    "month": 6,
+    "guideIds": [
+      "ヤマザキマリ"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "町田啓太"
+      },
+      {
+        "role": "語り",
+        "name": "小口貴子"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

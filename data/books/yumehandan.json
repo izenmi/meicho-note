@@ -1,0 +1,52 @@
+{
+  "id": "yumehandan",
+  "title": "夢判断",
+  "titleKana": "",
+  "titles": [
+    "夢判断"
+  ],
+  "author": "フロイト",
+  "authorIds": [
+    "フロイト"
+  ],
+  "genreId": "psychology",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2024,
+    "month": 4,
+    "guideIds": [
+      "立木康介"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "羽室満"
+      },
+      {
+        "role": "語り",
+        "name": "加藤有生子"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "natsume-soseki-special",
+  "title": "夏目漱石スペシャル",
+  "titleKana": "",
+  "titles": [
+    "三四郎",
+    "夢十夜",
+    "道草",
+    "明暗"
+  ],
+  "author": "夏目漱石",
+  "authorIds": [
+    "夏目漱石"
+  ],
+  "genreId": "literature-jp",
+  "kind": "special",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2019,
+    "month": 3,
+    "guideIds": [
+      "阿部公彦"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "語り",
+        "name": "加藤有生子"
+      },
+      {
+        "role": "朗読",
+        "name": "藤井美菜"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": {
+    "label": "夏目漱石スペシャル",
+    "parts": [
+      {
+        "no": 1,
+        "subtitle": "",
+        "titles": [
+          "三四郎"
+        ],
+        "guide": ""
+      },
+      {
+        "no": 2,
+        "subtitle": "",
+        "titles": [
+          "夢十夜"
+        ],
+        "guide": ""
+      },
+      {
+        "no": 3,
+        "subtitle": "",
+        "titles": [
+          "道草"
+        ],
+        "guide": ""
+      },
+      {
+        "no": 4,
+        "subtitle": "",
+        "titles": [
+          "明暗"
+        ],
+        "guide": ""
+      }
+    ]
+  },
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

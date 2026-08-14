@@ -1,0 +1,91 @@
+{
+  "id": "tanizaki-junichiro-special",
+  "title": "谷崎潤一郎スペシャル",
+  "titleKana": "",
+  "titles": [
+    "痴人の愛",
+    "吉野葛",
+    "春琴抄",
+    "陰翳礼讃"
+  ],
+  "author": "谷崎潤一郎",
+  "authorIds": [
+    "谷崎潤一郎"
+  ],
+  "genreId": "literature-jp",
+  "kind": "special",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2020,
+    "month": 10,
+    "guideIds": [
+      "島田雅彦"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "吹越満"
+      },
+      {
+        "role": "語り",
+        "name": "小口貴子"
+      }
+    ],
+    "note": "同年10月31日 15:10再放送。"
+  },
+  "reruns": [],
+  "special": {
+    "label": "谷崎潤一郎スペシャル",
+    "parts": [
+      {
+        "no": 1,
+        "subtitle": "エロティシズムを凝視する",
+        "titles": [
+          "痴人の愛"
+        ],
+        "guide": ""
+      },
+      {
+        "no": 2,
+        "subtitle": "「母なるもの」を探す旅",
+        "titles": [
+          "吉野葛"
+        ],
+        "guide": ""
+      },
+      {
+        "no": 3,
+        "subtitle": "闇が生み出す物語",
+        "titles": [
+          "春琴抄"
+        ],
+        "guide": ""
+      },
+      {
+        "no": 4,
+        "subtitle": "光と陰が織りなす美",
+        "titles": [
+          "陰翳礼讃"
+        ],
+        "guide": ""
+      }
+    ]
+  },
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

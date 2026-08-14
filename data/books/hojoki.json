@@ -1,0 +1,48 @@
+{
+  "id": "hojoki",
+  "title": "方丈記",
+  "titleKana": "",
+  "titles": [
+    "方丈記"
+  ],
+  "author": "鴨長明",
+  "authorIds": [
+    "鴨長明"
+  ],
+  "genreId": "classic-jp",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2012,
+    "month": 10,
+    "guideIds": [
+      "小林一彦"
+    ],
+    "hosts": [
+      "伊集院光",
+      "島津有理子"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "中川緑"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

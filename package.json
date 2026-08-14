@@ -1,0 +1,21 @@
+{
+  "name": "meicho-note",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "『100分de名著』で紹介された名著を1冊ずつ読み解く非公式ガイド",
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs",
+    "dev": "node scripts/dev.mjs",
+    "books": "node scripts/books.mjs",
+    "og": "node scripts/ogimage.mjs",
+    "shot": "node scripts/screenshot.mjs"
+  },
+  "devDependencies": {
+    "playwright": "^1.55.0"
+  }
+}

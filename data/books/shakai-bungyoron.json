@@ -1,0 +1,52 @@
+{
+  "id": "shakai-bungyoron",
+  "title": "社会分業論",
+  "titleKana": "",
+  "titles": [
+    "社会分業論"
+  ],
+  "author": "デュルケーム",
+  "authorIds": [
+    "デュルケーム"
+  ],
+  "genreId": "society",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2025,
+    "month": 2,
+    "guideIds": [
+      "芦田徹郎"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "山中崇"
+      },
+      {
+        "role": "語り",
+        "name": "藤井千夏"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

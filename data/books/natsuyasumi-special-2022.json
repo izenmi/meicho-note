@@ -1,0 +1,104 @@
+{
+  "id": "natsuyasumi-special-2022",
+  "title": "夏休みスペシャル for ティーンズ",
+  "titleKana": "",
+  "titles": [
+    "人は何で生きるか",
+    "生命とは何か",
+    "父が娘に語る経済の話。",
+    "竹取物語"
+  ],
+  "author": "",
+  "authorIds": [],
+  "genreId": "literature-world",
+  "kind": "special",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2022,
+    "month": 8,
+    "guideIds": [
+      "若松英輔",
+      "竹内薫",
+      "中山智香子",
+      "木ノ下裕一"
+    ],
+    "hosts": [
+      "加藤シゲアキ",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "花澤香菜"
+      },
+      {
+        "role": "朗読",
+        "name": "下野紘"
+      },
+      {
+        "role": "語り",
+        "name": "目黒泉"
+      },
+      {
+        "role": "朗読",
+        "name": "生徒役：鈴木福"
+      },
+      {
+        "role": "朗読",
+        "name": "生徒役：本田望結"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": {
+    "label": "夏休みスペシャル for ティーンズ",
+    "parts": [
+      {
+        "no": 1,
+        "subtitle": "トルストイ",
+        "titles": [
+          "人は何で生きるか"
+        ],
+        "guide": "若松英輔"
+      },
+      {
+        "no": 2,
+        "subtitle": "ポール・ナース",
+        "titles": [
+          "生命とは何か"
+        ],
+        "guide": "竹内薫"
+      },
+      {
+        "no": 3,
+        "subtitle": "バルファキス",
+        "titles": [
+          "父が娘に語る経済の話。"
+        ],
+        "guide": "中山智香子"
+      },
+      {
+        "no": 4,
+        "subtitle": "",
+        "titles": [
+          "竹取物語"
+        ],
+        "guide": "木ノ下裕一"
+      }
+    ]
+  },
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

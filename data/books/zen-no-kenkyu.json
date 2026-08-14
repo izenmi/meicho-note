@@ -1,0 +1,52 @@
+{
+  "id": "zen-no-kenkyu",
+  "title": "善の研究",
+  "titleKana": "",
+  "titles": [
+    "善の研究"
+  ],
+  "author": "西田幾多郎",
+  "authorIds": [
+    "西田幾多郎"
+  ],
+  "genreId": "philosophy",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2019,
+    "month": 10,
+    "guideIds": [
+      "若松英輔"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "語り",
+        "name": "小口貴子"
+      },
+      {
+        "role": "朗読",
+        "name": "長塚圭史"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

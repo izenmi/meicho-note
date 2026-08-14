@@ -1,0 +1,57 @@
+{
+  "id": "gunshu-shinri",
+  "title": "群衆心理",
+  "titleKana": "",
+  "titles": [
+    "群衆心理"
+  ],
+  "author": "ル・ボン",
+  "authorIds": [
+    "ル・ボン"
+  ],
+  "genreId": "psychology",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2021,
+    "month": 9,
+    "guideIds": [
+      "武田砂鉄"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "長塚圭史"
+      },
+      {
+        "role": "語り",
+        "name": "藤井千夏"
+      }
+    ],
+    "note": "2022年11月に再放送。"
+  },
+  "reruns": [
+    {
+      "year": 2022,
+      "month": 11
+    }
+  ],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

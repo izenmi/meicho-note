@@ -1,0 +1,48 @@
+{
+  "id": "ginga-tetsudo-no-yoru",
+  "title": "銀河鉄道の夜",
+  "titleKana": "",
+  "titles": [
+    "銀河鉄道の夜"
+  ],
+  "author": "宮沢賢治",
+  "authorIds": [
+    "宮沢賢治"
+  ],
+  "genreId": "literature-jp",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2011,
+    "month": 12,
+    "guideIds": [
+      "ロジャー・パルバース"
+    ],
+    "hosts": [
+      "堀尾正明",
+      "瀧口友里奈"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "柘植恵水"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

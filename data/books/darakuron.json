@@ -1,0 +1,48 @@
+{
+  "id": "darakuron",
+  "title": "堕落論",
+  "titleKana": "",
+  "titles": [
+    "堕落論"
+  ],
+  "author": "坂口安吾",
+  "authorIds": [
+    "坂口安吾"
+  ],
+  "genreId": "literature-jp",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2016,
+    "month": 7,
+    "guideIds": [
+      "大久保喬樹第4回ゲスト：町田康"
+    ],
+    "hosts": [
+      "伊集院光",
+      "礒野佑子"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "青木崇高"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

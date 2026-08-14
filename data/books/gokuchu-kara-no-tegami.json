@@ -1,0 +1,48 @@
+{
+  "id": "gokuchu-kara-no-tegami",
+  "title": "獄中からの手紙",
+  "titleKana": "",
+  "titles": [
+    "獄中からの手紙"
+  ],
+  "author": "ガンディー",
+  "authorIds": [
+    "ガンディー"
+  ],
+  "genreId": "society",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2017,
+    "month": 2,
+    "guideIds": [
+      "中島岳志"
+    ],
+    "hosts": [
+      "伊集院光",
+      "礒野佑子"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "ムロツヨシ"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

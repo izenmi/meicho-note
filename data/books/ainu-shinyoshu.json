@@ -1,0 +1,48 @@
+{
+  "id": "ainu-shinyoshu",
+  "title": "アイヌ神謡集",
+  "titleKana": "",
+  "titles": [
+    "アイヌ神謡集"
+  ],
+  "author": "知里幸恵",
+  "authorIds": [
+    "知里幸恵"
+  ],
+  "genreId": "classic-jp",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2022,
+    "month": 9,
+    "guideIds": [
+      "中川裕"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "語り",
+        "name": "宇梶剛士"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "sensoron",
+  "title": "戦争論",
+  "titleKana": "",
+  "titles": [
+    "戦争論"
+  ],
+  "author": "ロジェ・カイヨワ",
+  "authorIds": [
+    "ロジェ・カイヨワ"
+  ],
+  "genreId": "society",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2019,
+    "month": 8,
+    "guideIds": [
+      "西谷修"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "語り",
+        "name": "小坂由里子"
+      },
+      {
+        "role": "朗読",
+        "name": "古舘寛治"
+      }
+    ],
+    "note": "2022年4月4日 0:45（3日深夜）再放送。"
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

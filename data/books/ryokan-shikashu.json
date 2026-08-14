@@ -1,0 +1,52 @@
+{
+  "id": "ryokan-shikashu",
+  "title": "良寛詩歌集",
+  "titleKana": "",
+  "titles": [
+    "良寛詩歌集"
+  ],
+  "author": "良寛",
+  "authorIds": [
+    "良寛"
+  ],
+  "genreId": "classic-jp",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2015,
+    "month": 12,
+    "guideIds": [
+      "中野東禅"
+    ],
+    "hosts": [
+      "伊集院光",
+      "武内陶子"
+    ],
+    "credits": [
+      {
+        "role": "語り",
+        "name": "高山久美子"
+      },
+      {
+        "role": "朗読",
+        "name": "活動弁士：升毅"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

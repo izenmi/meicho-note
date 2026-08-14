@@ -1,0 +1,48 @@
+{
+  "id": "ikigai-ni-tsuite",
+  "title": "生きがいについて",
+  "titleKana": "",
+  "titles": [
+    "生きがいについて"
+  ],
+  "author": "神谷美恵子",
+  "authorIds": [
+    "神谷美恵子"
+  ],
+  "genreId": "psychology",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2018,
+    "month": 5,
+    "guideIds": [
+      "若松英輔"
+    ],
+    "hosts": [
+      "伊集院光",
+      "島津有理子"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "美村里江"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

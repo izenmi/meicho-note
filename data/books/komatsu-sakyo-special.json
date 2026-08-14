@@ -1,0 +1,92 @@
+{
+  "id": "komatsu-sakyo-special",
+  "title": "小松左京スペシャル",
+  "titleKana": "",
+  "titles": [
+    "地には平和を",
+    "日本沈没",
+    "ゴルディアスの結び目",
+    "虚無回廊"
+  ],
+  "author": "小松左京",
+  "authorIds": [
+    "小松左京"
+  ],
+  "genreId": "literature-jp",
+  "kind": "special",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2019,
+    "month": 7,
+    "guideIds": [
+      "宮崎哲弥",
+      "瀬名秀明"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "田中哲司"
+      },
+      {
+        "role": "朗読",
+        "name": "中村優子"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": {
+    "label": "小松左京スペシャル",
+    "parts": [
+      {
+        "no": 1,
+        "subtitle": "原点は“戦争”にあり",
+        "titles": [
+          "地には平和を"
+        ],
+        "guide": ""
+      },
+      {
+        "no": 2,
+        "subtitle": "滅びとアイデンティティ",
+        "titles": [
+          "日本沈没"
+        ],
+        "guide": ""
+      },
+      {
+        "no": 3,
+        "subtitle": "深層意識と宇宙をつなぐ",
+        "titles": [
+          "ゴルディアスの結び目"
+        ],
+        "guide": ""
+      },
+      {
+        "no": 4,
+        "subtitle": "宇宙にとって知性とは何か",
+        "titles": [
+          "虚無回廊"
+        ],
+        "guide": ""
+      }
+    ]
+  },
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

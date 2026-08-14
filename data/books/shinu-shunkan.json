@@ -1,0 +1,52 @@
+{
+  "id": "shinu-shunkan",
+  "title": "死ぬ瞬間",
+  "titleKana": "",
+  "titles": [
+    "死ぬ瞬間"
+  ],
+  "author": "キューブラー・ロス",
+  "authorIds": [
+    "キューブラー・ロス"
+  ],
+  "genreId": "psychology",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2025,
+    "month": 12,
+    "guideIds": [
+      "島薗進"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "田中麗奈"
+      },
+      {
+        "role": "語り",
+        "name": "藤本隆行"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

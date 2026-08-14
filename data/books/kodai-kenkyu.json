@@ -1,0 +1,52 @@
+{
+  "id": "kodai-kenkyu",
+  "title": "古代研究",
+  "titleKana": "",
+  "titles": [
+    "古代研究"
+  ],
+  "author": "折口信夫",
+  "authorIds": [
+    "折口信夫"
+  ],
+  "genreId": "history",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2022,
+    "month": 10,
+    "guideIds": [
+      "上野誠"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "渡辺いっけい"
+      },
+      {
+        "role": "語り",
+        "name": "小坂由里子"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

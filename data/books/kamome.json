@@ -1,0 +1,60 @@
+{
+  "id": "kamome",
+  "title": "かもめ",
+  "titleKana": "",
+  "titles": [
+    "かもめ"
+  ],
+  "author": "チェーホフ",
+  "authorIds": [
+    "チェーホフ"
+  ],
+  "genreId": "literature-world",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2012,
+    "month": 9,
+    "guideIds": [
+      "沼野充義"
+    ],
+    "hosts": [
+      "伊集院光",
+      "伊東敏恵"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "小澤征悦"
+      },
+      {
+        "role": "朗読",
+        "name": "小島聖"
+      },
+      {
+        "role": "朗読",
+        "name": "川口覚"
+      },
+      {
+        "role": "朗読",
+        "name": "岸井ゆきの"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

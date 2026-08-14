@@ -1,0 +1,57 @@
+{
+  "id": "dokusai-kara-minshushugi",
+  "title": "独裁体制から民主主義へ",
+  "titleKana": "",
+  "titles": [
+    "独裁体制から民主主義へ"
+  ],
+  "author": "シャープ",
+  "authorIds": [
+    "シャープ"
+  ],
+  "genreId": "society",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2023,
+    "month": 1,
+    "guideIds": [
+      "中見真理"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "西村まさ彦"
+      },
+      {
+        "role": "語り",
+        "name": "加藤有生子"
+      }
+    ],
+    "note": "2024年1月に再放送。"
+  },
+  "reruns": [
+    {
+      "year": 2024,
+      "month": 1
+    }
+  ],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

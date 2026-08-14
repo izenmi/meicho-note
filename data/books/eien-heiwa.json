@@ -1,0 +1,52 @@
+{
+  "id": "eien-heiwa",
+  "title": "永遠平和のために",
+  "titleKana": "",
+  "titles": [
+    "永遠平和のために"
+  ],
+  "author": "カント",
+  "authorIds": [
+    "カント"
+  ],
+  "genreId": "philosophy",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2016,
+    "month": 8,
+    "guideIds": [
+      "萱野稔人"
+    ],
+    "hosts": [
+      "伊集院光",
+      "礒野佑子"
+    ],
+    "credits": [
+      {
+        "role": "語り",
+        "name": "加藤有生子"
+      },
+      {
+        "role": "朗読",
+        "name": "カント役：斉木しげる"
+      }
+    ],
+    "note": "2022年4月9日0:00（8日深夜）再放送。"
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

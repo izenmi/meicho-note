@@ -1,0 +1,48 @@
+{
+  "id": "kugai-jodo",
+  "title": "苦海浄土",
+  "titleKana": "",
+  "titles": [
+    "苦海浄土"
+  ],
+  "author": "石牟礼道子",
+  "authorIds": [
+    "石牟礼道子"
+  ],
+  "genreId": "literature-jp",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2016,
+    "month": 9,
+    "guideIds": [
+      "若松英輔"
+    ],
+    "hosts": [
+      "伊集院光",
+      "礒野佑子"
+    ],
+    "credits": [
+      {
+        "role": "語り",
+        "name": "夏川結衣"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

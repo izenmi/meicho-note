@@ -1,0 +1,56 @@
+{
+  "id": "kashi-451",
+  "title": "華氏451度",
+  "titleKana": "",
+  "titles": [
+    "華氏451度"
+  ],
+  "author": "ブラッドベリ",
+  "authorIds": [
+    "ブラッドベリ"
+  ],
+  "genreId": "literature-world",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2021,
+    "month": 6,
+    "guideIds": [
+      "戸田山和久"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "玉置玲央"
+      },
+      {
+        "role": "朗読",
+        "name": "朝倉あき"
+      },
+      {
+        "role": "語り",
+        "name": "加藤有生子"
+      }
+    ],
+    "note": "第1回は5月31日放送。"
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "horoki",
+  "title": "放浪記",
+  "titleKana": "",
+  "titles": [
+    "放浪記"
+  ],
+  "author": "林芙美子",
+  "authorIds": [
+    "林芙美子"
+  ],
+  "genreId": "literature-jp",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2023,
+    "month": 7,
+    "guideIds": [
+      "柚木麻子"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "山田真歩"
+      },
+      {
+        "role": "語り",
+        "name": "内藤裕子"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

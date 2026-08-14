@@ -1,0 +1,52 @@
+{
+  "id": "gorin-no-sho",
+  "title": "五輪書",
+  "titleKana": "",
+  "titles": [
+    "五輪書"
+  ],
+  "author": "宮本武蔵",
+  "authorIds": [
+    "宮本武蔵"
+  ],
+  "genreId": "classic-jp",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2016,
+    "month": 5,
+    "guideIds": [
+      "魚住孝至"
+    ],
+    "hosts": [
+      "伊集院光",
+      "礒野佑子"
+    ],
+    "credits": [
+      {
+        "role": "語り",
+        "name": "山本美穂"
+      },
+      {
+        "role": "朗読",
+        "name": "チョウヨンホ"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

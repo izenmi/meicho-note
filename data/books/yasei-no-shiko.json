@@ -1,0 +1,48 @@
+{
+  "id": "yasei-no-shiko",
+  "title": "野生の思考",
+  "titleKana": "",
+  "titles": [
+    "野生の思考"
+  ],
+  "author": "レヴィ＝ストロース",
+  "authorIds": [
+    "レヴィ＝ストロース"
+  ],
+  "genreId": "society",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2016,
+    "month": 12,
+    "guideIds": [
+      "中沢新一"
+    ],
+    "hosts": [
+      "伊集院光",
+      "礒野佑子"
+    ],
+    "credits": [
+      {
+        "role": "語り",
+        "name": "加藤有生子"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

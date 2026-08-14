@@ -1,0 +1,52 @@
+{
+  "id": "surrealism-sengen",
+  "title": "シュルレアリスム宣言",
+  "titleKana": "",
+  "titles": [
+    "シュルレアリスム宣言"
+  ],
+  "author": "アンドレ・ブルトン",
+  "authorIds": [
+    "アンドレ・ブルトン"
+  ],
+  "genreId": "art",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2026,
+    "month": 8,
+    "guideIds": [
+      "伊東順二"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "松尾スズキ"
+      },
+      {
+        "role": "語り",
+        "name": "目黒泉"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

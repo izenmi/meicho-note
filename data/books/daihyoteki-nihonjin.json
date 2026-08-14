@@ -1,0 +1,52 @@
+{
+  "id": "daihyoteki-nihonjin",
+  "title": "代表的日本人",
+  "titleKana": "",
+  "titles": [
+    "代表的日本人"
+  ],
+  "author": "内村鑑三",
+  "authorIds": [
+    "内村鑑三"
+  ],
+  "genreId": "history",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2016,
+    "month": 1,
+    "guideIds": [
+      "若松英輔"
+    ],
+    "hosts": [
+      "伊集院光",
+      "武内陶子"
+    ],
+    "credits": [
+      {
+        "role": "語り",
+        "name": "小口貴子"
+      },
+      {
+        "role": "朗読",
+        "name": "筧利夫"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

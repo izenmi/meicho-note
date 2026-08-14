@@ -1,0 +1,61 @@
+{
+  "id": "jinsei-no-imi-no-shinrigaku",
+  "title": "人生の意味の心理学",
+  "titleKana": "",
+  "titles": [
+    "人生の意味の心理学"
+  ],
+  "author": "アルフレッド・アドラー",
+  "authorIds": [
+    "アルフレッド・アドラー"
+  ],
+  "genreId": "psychology",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2016,
+    "month": 2,
+    "guideIds": [
+      "岸見一郎"
+    ],
+    "hosts": [
+      "伊集院光",
+      "武内陶子"
+    ],
+    "credits": [
+      {
+        "role": "語り",
+        "name": "細谷みこ"
+      },
+      {
+        "role": "朗読",
+        "name": "安土羅診療所の医師役：岩松了"
+      },
+      {
+        "role": "朗読",
+        "name": "女子高生役：三浦透子"
+      }
+    ],
+    "note": "2016年10月度で再放送。 2020年3月1日 0:30再放送。"
+  },
+  "reruns": [
+    {
+      "year": 2016,
+      "month": 10
+    }
+  ],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

@@ -1,0 +1,89 @@
+{
+  "id": "kawai-hayao-special",
+  "title": "河合隼雄スペシャル",
+  "titleKana": "",
+  "titles": [
+    "ユング心理学入門",
+    "ユング心理学入門",
+    "昔話と日本人の心",
+    "神話と日本人の心",
+    "ユング心理学と仏教"
+  ],
+  "author": "河合隼雄",
+  "authorIds": [
+    "河合隼雄"
+  ],
+  "genreId": "psychology",
+  "kind": "special",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2018,
+    "month": 7,
+    "guideIds": [
+      "河合俊雄"
+    ],
+    "hosts": [
+      "伊集院光",
+      "島津有理子"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "要潤"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": {
+    "label": "河合隼雄スペシャル",
+    "parts": [
+      {
+        "no": 1,
+        "subtitle": "こころの問題に寄りそう",
+        "titles": [
+          "ユング心理学入門"
+        ],
+        "guide": ""
+      },
+      {
+        "no": 2,
+        "subtitle": "人間の根源とイメージ",
+        "titles": [
+          "ユング心理学入門"
+        ],
+        "guide": ""
+      },
+      {
+        "no": 3,
+        "subtitle": "昔話と神話の深層",
+        "titles": [
+          "昔話と日本人の心",
+          "神話と日本人の心"
+        ],
+        "guide": ""
+      },
+      {
+        "no": 4,
+        "subtitle": "「私」とは何か",
+        "titles": [
+          "ユング心理学と仏教"
+        ],
+        "guide": ""
+      }
+    ]
+  },
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

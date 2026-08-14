@@ -1,0 +1,52 @@
+{
+  "id": "kuroi-hifu-shiroi-kamen",
+  "title": "黒い皮膚・白い仮面",
+  "titleKana": "",
+  "titles": [
+    "黒い皮膚・白い仮面"
+  ],
+  "author": "ファノン",
+  "authorIds": [
+    "ファノン"
+  ],
+  "genreId": "society",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2021,
+    "month": 2,
+    "guideIds": [
+      "小野正嗣"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "北村有起哉"
+      },
+      {
+        "role": "語り",
+        "name": "小口貴子"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

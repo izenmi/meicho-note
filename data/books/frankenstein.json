@@ -1,0 +1,52 @@
+{
+  "id": "frankenstein",
+  "title": "フランケンシュタイン",
+  "titleKana": "",
+  "titles": [
+    "フランケンシュタイン"
+  ],
+  "author": "メアリ・シェリー",
+  "authorIds": [
+    "メアリ・シェリー"
+  ],
+  "genreId": "literature-world",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2015,
+    "month": 2,
+    "guideIds": [
+      "廣野由美子"
+    ],
+    "hosts": [
+      "伊集院光",
+      "武内陶子"
+    ],
+    "credits": [
+      {
+        "role": "語り",
+        "name": "水島裕"
+      },
+      {
+        "role": "朗読",
+        "name": "柳楽優弥"
+      }
+    ],
+    "note": "2018年10月14日 0:00再放送。"
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "kunshuron",
+  "title": "君主論",
+  "titleKana": "",
+  "titles": [
+    "君主論"
+  ],
+  "author": "マキャベリ",
+  "authorIds": [
+    "マキャベリ"
+  ],
+  "genreId": "society",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2011,
+    "month": 10,
+    "guideIds": [
+      "武田好"
+    ],
+    "hosts": [
+      "堀尾正明",
+      "瀧口友里奈"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "鈴木桂一郎"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

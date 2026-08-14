@@ -1,0 +1,52 @@
+{
+  "id": "fukuo-jiden",
+  "title": "福翁自伝",
+  "titleKana": "",
+  "titles": [
+    "福翁自伝"
+  ],
+  "author": "福沢諭吉",
+  "authorIds": [
+    "福沢諭吉"
+  ],
+  "genreId": "history",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2025,
+    "month": 9,
+    "guideIds": [
+      "齋藤孝"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "迫田孝也"
+      },
+      {
+        "role": "語り",
+        "name": "小口貴子"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

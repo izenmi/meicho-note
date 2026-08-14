@@ -1,0 +1,93 @@
+{
+  "id": "nakai-hisao-special",
+  "title": "中井久夫スペシャル",
+  "titleKana": "",
+  "titles": [
+    "最終講義",
+    "分裂病と人類",
+    "治療文化論",
+    "『昭和』を送る",
+    "戦争と平和 ある考察"
+  ],
+  "author": "中井久夫",
+  "authorIds": [
+    "中井久夫"
+  ],
+  "genreId": "psychology",
+  "kind": "special",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2022,
+    "month": 12,
+    "guideIds": [
+      "斎藤環"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "寺田農"
+      },
+      {
+        "role": "語り",
+        "name": "小口貴子"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": {
+    "label": "中井久夫スペシャル",
+    "parts": [
+      {
+        "no": 1,
+        "subtitle": "「心の生ぶ毛」を守り育てる",
+        "titles": [
+          "最終講義"
+        ],
+        "guide": ""
+      },
+      {
+        "no": 2,
+        "subtitle": "「病」は能力である",
+        "titles": [
+          "分裂病と人類"
+        ],
+        "guide": ""
+      },
+      {
+        "no": 3,
+        "subtitle": "多層的な文化が「病」を包む",
+        "titles": [
+          "治療文化論"
+        ],
+        "guide": ""
+      },
+      {
+        "no": 4,
+        "subtitle": "精神科医が読み解く「昭和」と「戦争」",
+        "titles": [
+          "『昭和』を送る",
+          "戦争と平和 ある考察"
+        ],
+        "guide": ""
+      }
+    ]
+  },
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

@@ -1,0 +1,92 @@
+{
+  "id": "ehon-special",
+  "title": "絵本スペシャル",
+  "titleKana": "",
+  "titles": [
+    "100万回生きたねこ",
+    "だれのせい?",
+    "ぼくのこえがきこえますか",
+    "おおきな木"
+  ],
+  "author": "",
+  "authorIds": [],
+  "genreId": "art",
+  "kind": "special",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2026,
+    "month": 3,
+    "guideIds": [
+      "宮崎哲弥",
+      "ヤマザキマリ",
+      "サヘル・ローズ",
+      "若松英輔"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "多部未華子"
+      },
+      {
+        "role": "語り",
+        "name": "加藤有生子"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": {
+    "label": "絵本スペシャル",
+    "parts": [
+      {
+        "no": 1,
+        "subtitle": "佐野洋子",
+        "titles": [
+          "100万回生きたねこ"
+        ],
+        "guide": "宮崎哲弥"
+      },
+      {
+        "no": 2,
+        "subtitle": "ダビデ・カリ・レジーナ・ルック-トゥーンペレ",
+        "titles": [
+          "だれのせい?"
+        ],
+        "guide": "ヤマザキマリ"
+      },
+      {
+        "no": 3,
+        "subtitle": "田島征三",
+        "titles": [
+          "ぼくのこえがきこえますか"
+        ],
+        "guide": "サヘル・ローズ"
+      },
+      {
+        "no": 4,
+        "subtitle": "シェル・シルヴァスタイン",
+        "titles": [
+          "おおきな木"
+        ],
+        "guide": "若松英輔"
+      }
+    ]
+  },
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

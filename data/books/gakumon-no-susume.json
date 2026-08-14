@@ -1,0 +1,48 @@
+{
+  "id": "gakumon-no-susume",
+  "title": "学問のすゝめ",
+  "titleKana": "",
+  "titles": [
+    "学問のすゝめ"
+  ],
+  "author": "福澤諭吉",
+  "authorIds": [
+    "福澤諭吉"
+  ],
+  "genreId": "society",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2011,
+    "month": 7,
+    "guideIds": [
+      "齋藤孝"
+    ],
+    "hosts": [
+      "堀尾正明",
+      "瀧口友里奈"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "大野済也"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

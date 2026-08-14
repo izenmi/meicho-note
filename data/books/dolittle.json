@@ -1,0 +1,52 @@
+{
+  "id": "dolittle",
+  "title": "ドリトル先生航海記",
+  "titleKana": "",
+  "titles": [
+    "ドリトル先生航海記"
+  ],
+  "author": "ロフティング",
+  "authorIds": [
+    "ロフティング"
+  ],
+  "genreId": "literature-world",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2024,
+    "month": 10,
+    "guideIds": [
+      "福岡伸一"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "溝端淳平"
+      },
+      {
+        "role": "語り",
+        "name": "目黒泉"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

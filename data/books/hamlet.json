@@ -1,0 +1,48 @@
+{
+  "id": "hamlet",
+  "title": "ハムレット",
+  "titleKana": "",
+  "titles": [
+    "ハムレット"
+  ],
+  "author": "シェイクスピア",
+  "authorIds": [
+    "シェイクスピア"
+  ],
+  "genreId": "literature-world",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2014,
+    "month": 12,
+    "guideIds": [
+      "河合祥一郎"
+    ],
+    "hosts": [
+      "伊集院光",
+      "武内陶子"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "川口覚"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

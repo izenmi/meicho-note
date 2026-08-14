@@ -1,0 +1,82 @@
+{
+  "id": "ariyoshi-sawako-special",
+  "title": "有吉佐和子 スペシャル",
+  "titleKana": "",
+  "titles": [
+    "華岡青洲の妻",
+    "恍惚の人",
+    "青い壺"
+  ],
+  "author": "有吉佐和子",
+  "authorIds": [
+    "有吉佐和子"
+  ],
+  "genreId": "literature-jp",
+  "kind": "special",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2024,
+    "month": 12,
+    "guideIds": [
+      "ソコロワ山下聖美"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "堀内敬子"
+      },
+      {
+        "role": "語り",
+        "name": "加藤有生子"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": {
+    "label": "有吉佐和子 スペシャル",
+    "parts": [
+      {
+        "no": 1,
+        "subtitle": "",
+        "titles": [
+          "華岡青洲の妻"
+        ],
+        "guide": ""
+      },
+      {
+        "no": 2,
+        "subtitle": "",
+        "titles": [
+          "恍惚の人"
+        ],
+        "guide": ""
+      },
+      {
+        "no": 3,
+        "subtitle": "",
+        "titles": [
+          "青い壺"
+        ],
+        "guide": ""
+      }
+    ]
+  },
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

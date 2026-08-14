@@ -1,0 +1,54 @@
+{
+  "id": "taiheiki",
+  "title": "太平記",
+  "titleKana": "",
+  "titles": [
+    "太平記"
+  ],
+  "author": "",
+  "authorIds": [],
+  "genreId": "classic-jp",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2022,
+    "month": 7,
+    "guideIds": [
+      "安田登"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "安田登"
+      },
+      {
+        "role": "朗読",
+        "name": "玉川奈々福"
+      },
+      {
+        "role": "語り",
+        "name": "加藤有生子"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "seishin-genshogaku",
+  "title": "精神現象学",
+  "titleKana": "",
+  "titles": [
+    "精神現象学"
+  ],
+  "author": "ヘーゲル",
+  "authorIds": [
+    "ヘーゲル"
+  ],
+  "genreId": "philosophy",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2023,
+    "month": 5,
+    "guideIds": [
+      "斎藤幸平"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "八嶋智人"
+      },
+      {
+        "role": "語り",
+        "name": "目黒泉"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [
+    {
+      "year": 2025,
+      "month": 3
+    }
+  ],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

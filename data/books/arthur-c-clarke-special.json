@@ -1,0 +1,87 @@
+{
+  "id": "arthur-c-clarke-special",
+  "title": "アーサー・C・クラークスペシャル",
+  "titleKana": "",
+  "titles": [
+    "太陽系最後の日",
+    "幼年期の終わり",
+    "都市と星",
+    "楽園の泉"
+  ],
+  "author": "アーサー・C・クラーク",
+  "authorIds": [
+    "アーサー・C・クラーク"
+  ],
+  "genreId": "literature-world",
+  "kind": "special",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2020,
+    "month": 3,
+    "guideIds": [
+      "瀬名秀明"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "銀河万丈"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": {
+    "label": "アーサー・C・クラークスペシャル",
+    "parts": [
+      {
+        "no": 1,
+        "subtitle": "知的好奇心が未来をつくる",
+        "titles": [
+          "太陽系最後の日"
+        ],
+        "guide": ""
+      },
+      {
+        "no": 2,
+        "subtitle": "人類にとって「進化」とは何か",
+        "titles": [
+          "幼年期の終わり"
+        ],
+        "guide": ""
+      },
+      {
+        "no": 3,
+        "subtitle": "科学はユートピアをつくれるか",
+        "titles": [
+          "都市と星"
+        ],
+        "guide": ""
+      },
+      {
+        "no": 4,
+        "subtitle": "技術者への讃歌",
+        "titles": [
+          "楽園の泉"
+        ],
+        "guide": ""
+      }
+    ]
+  },
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

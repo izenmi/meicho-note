@@ -1,0 +1,57 @@
+{
+  "id": "karamazov",
+  "title": "カラマーゾフの兄弟",
+  "titleKana": "",
+  "titles": [
+    "カラマーゾフの兄弟"
+  ],
+  "author": "ドストエフスキー",
+  "authorIds": [
+    "ドストエフスキー"
+  ],
+  "genreId": "literature-world",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2019,
+    "month": 12,
+    "guideIds": [
+      "亀山郁夫"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "語り",
+        "name": "加藤有生子"
+      },
+      {
+        "role": "朗読",
+        "name": "津田寛治"
+      }
+    ],
+    "note": "2021年11月、レギュラー枠で再放送。"
+  },
+  "reruns": [
+    {
+      "year": 2021,
+      "month": 11
+    }
+  ],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

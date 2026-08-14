@@ -1,0 +1,55 @@
+{
+  "id": "tanikawa-shuntaro-shishu",
+  "title": "谷川俊太郎詩集",
+  "titleKana": "",
+  "titles": [
+    "谷川俊太郎詩集"
+  ],
+  "author": "",
+  "authorIds": [],
+  "genreId": "literature-jp",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2025,
+    "month": 5,
+    "guideIds": [
+      "若松英輔"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "昆夏美"
+      },
+      {
+        "role": "語り",
+        "name": "武内陶子"
+      }
+    ],
+    "note": "2025年9月4日 1:00（3日深夜）再放送。 2026年5月に再放送。"
+  },
+  "reruns": [
+    {
+      "year": 2026,
+      "month": 6
+    }
+  ],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

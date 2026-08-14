@@ -1,0 +1,50 @@
+{
+  "id": "nakahara-chuya-shishu",
+  "title": "中原中也詩集",
+  "titleKana": "",
+  "titles": [
+    "中原中也詩集"
+  ],
+  "author": "",
+  "authorIds": [],
+  "genreId": "literature-jp",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2017,
+    "month": 1,
+    "guideIds": [
+      "太田治子"
+    ],
+    "hosts": [
+      "伊集院光",
+      "礒野佑子"
+    ],
+    "credits": [
+      {
+        "role": "語り",
+        "name": "山根基世"
+      },
+      {
+        "role": "朗読",
+        "name": "森山未來"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

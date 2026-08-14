@@ -1,0 +1,61 @@
+{
+  "id": "tannisho",
+  "title": "歎異抄",
+  "titleKana": "",
+  "titles": [
+    "歎異抄"
+  ],
+  "author": "唯円",
+  "authorIds": [
+    "唯円"
+  ],
+  "genreId": "religion",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2016,
+    "month": 4,
+    "guideIds": [
+      "釈徹宗"
+    ],
+    "hosts": [
+      "伊集院光",
+      "礒野佑子"
+    ],
+    "credits": [
+      {
+        "role": "語り",
+        "name": "小口貴子"
+      },
+      {
+        "role": "朗読",
+        "name": "志賀廣太郎"
+      },
+      {
+        "role": "朗読",
+        "name": "唯円役:岩崎う大"
+      }
+    ],
+    "note": "2017年10月度で再放送。"
+  },
+  "reruns": [
+    {
+      "year": 2017,
+      "month": 10
+    }
+  ],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "joganseiyo",
+  "title": "貞観政要",
+  "titleKana": "",
+  "titles": [
+    "貞観政要"
+  ],
+  "author": "呉兢",
+  "authorIds": [
+    "呉兢"
+  ],
+  "genreId": "history",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2020,
+    "month": 1,
+    "guideIds": [
+      "出口治明"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "語り",
+        "name": "目黒泉"
+      },
+      {
+        "role": "朗読",
+        "name": "渡辺徹"
+      },
+      {
+        "role": "出演",
+        "name": "小松利昌"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

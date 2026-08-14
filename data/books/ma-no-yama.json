@@ -1,0 +1,52 @@
+{
+  "id": "ma-no-yama",
+  "title": "魔の山",
+  "titleKana": "",
+  "titles": [
+    "魔の山"
+  ],
+  "author": "トーマス・マン",
+  "authorIds": [
+    "トーマス・マン"
+  ],
+  "genreId": "literature-world",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2024,
+    "month": 5,
+    "guideIds": [
+      "小黒康正"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "玉置玲央"
+      },
+      {
+        "role": "語り",
+        "name": "小坂由里子"
+      }
+    ],
+    "note": "5月27日放送の第4回は放送中断、31日に再放送"
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

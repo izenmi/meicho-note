@@ -1,0 +1,47 @@
+{
+  "id": "shihonron",
+  "title": "資本論",
+  "titleKana": "",
+  "titles": [
+    "資本論"
+  ],
+  "author": "マルクス",
+  "authorIds": [
+    "マルクス"
+  ],
+  "genreId": "economy",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2010,
+    "month": 9,
+    "guideIds": [
+      "的場昭弘"
+    ],
+    "hosts": [
+      "堀尾正明"
+    ],
+    "credits": [],
+    "note": ""
+  },
+  "reruns": [
+    {
+      "year": 2021,
+      "month": 12
+    }
+  ],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

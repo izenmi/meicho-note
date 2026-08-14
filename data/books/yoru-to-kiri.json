@@ -1,0 +1,48 @@
+{
+  "id": "yoru-to-kiri",
+  "title": "夜と霧",
+  "titleKana": "",
+  "titles": [
+    "夜と霧"
+  ],
+  "author": "ヴィクトール・フランクル",
+  "authorIds": [
+    "ヴィクトール・フランクル"
+  ],
+  "genreId": "psychology",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2012,
+    "month": 8,
+    "guideIds": [
+      "諸富祥彦"
+    ],
+    "hosts": [
+      "伊集院光",
+      "伊東敏恵"
+    ],
+    "credits": [],
+    "note": "2012年12月22日にEテレセレクション枠、2013年3月度で再放送。"
+  },
+  "reruns": [
+    {
+      "year": 2013,
+      "month": 3
+    }
+  ],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

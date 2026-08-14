@@ -1,0 +1,48 @@
+{
+  "id": "taishu-no-hangyaku",
+  "title": "大衆の反逆",
+  "titleKana": "",
+  "titles": [
+    "大衆の反逆"
+  ],
+  "author": "オルテガ＝イ＝ガセット",
+  "authorIds": [
+    "オルテガ＝イ＝ガセット"
+  ],
+  "genreId": "society",
+  "kind": "regular",
+  "originalPublishedYear": null,
+  "originCountry": "",
+  "broadcast": {
+    "year": 2019,
+    "month": 2,
+    "guideIds": [
+      "中島岳志"
+    ],
+    "hosts": [
+      "伊集院光",
+      "安部みちこ"
+    ],
+    "credits": [
+      {
+        "role": "朗読",
+        "name": "田中泯"
+      }
+    ],
+    "note": ""
+  },
+  "reruns": [],
+  "special": null,
+  "lead": "",
+  "overview": "",
+  "readingPoints": [],
+  "keywords": [],
+  "whoShouldRead": "",
+  "books": {
+    "text": null,
+    "original": [],
+    "related": []
+  },
+  "sourceNote": "",
+  "updatedAt": "2026-08-14"
+}

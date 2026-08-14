@@ -1,0 +1,905 @@
+[
+  {
+    "id": "アーサー・C・クラーク",
+    "name": "アーサー・C・クラーク",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "アインシュタイン",
+    "name": "アインシュタイン",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "アトウッド",
+    "name": "アトウッド",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "アラン",
+    "name": "アラン",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "アリストテレス",
+    "name": "アリストテレス",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "アルフレッド・アドラー",
+    "name": "アルフレッド・アドラー",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "アルベール・カミュ",
+    "name": "アルベール・カミュ",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "アレクシエーヴィチ",
+    "name": "アレクシエーヴィチ",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "アンドレ・ブルトン",
+    "name": "アンドレ・ブルトン",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "アンネ・フランク",
+    "name": "アンネ・フランク",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "アンリ・ファーブル",
+    "name": "アンリ・ファーブル",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "ヴィクトール・フランクル",
+    "name": "ヴィクトール・フランクル",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "ウィトゲンシュタイン",
+    "name": "ウィトゲンシュタイン",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "ウンベルト・エーコ",
+    "name": "ウンベルト・エーコ",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "エドガー・アラン・ポー",
+    "name": "エドガー・アラン・ポー",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "オルテガ＝イ＝ガセット",
+    "name": "オルテガ＝イ＝ガセット",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "ガンディー",
+    "name": "ガンディー",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "カント",
+    "name": "カント",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "キャンベル",
+    "name": "キャンベル",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "キューブラー・ロス",
+    "name": "キューブラー・ロス",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "コッローディ",
+    "name": "コッローディ",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "サルトル",
+    "name": "サルトル",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "サン・テグジュペリ",
+    "name": "サン・テグジュペリ",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "サン＝テグジュペリ",
+    "name": "サン＝テグジュペリ",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "シェイクスピア",
+    "name": "シェイクスピア",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "ジェイン・オースティン",
+    "name": "ジェイン・オースティン",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "シャープ",
+    "name": "シャープ",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "シャーロック・ホームズ",
+    "name": "シャーロック・ホームズ",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "スタニスワフ・レム",
+    "name": "スタニスワフ・レム",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "スピノザ",
+    "name": "スピノザ",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "ソポクレス",
+    "name": "ソポクレス",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "チェーホフ",
+    "name": "チェーホフ",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "チャールズ・ダーウィン",
+    "name": "チャールズ・ダーウィン",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "ディケンズ",
+    "name": "ディケンズ",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "デフォー",
+    "name": "デフォー",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "デュマ",
+    "name": "デュマ",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "デュルケーム",
+    "name": "デュルケーム",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "トーマス・マン",
+    "name": "トーマス・マン",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "ドストエフスキー",
+    "name": "ドストエフスキー",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "ドラッカー",
+    "name": "ドラッカー",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "トルストイ",
+    "name": "トルストイ",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "ナオミ・クライン",
+    "name": "ナオミ・クライン",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "ニーチェ",
+    "name": "ニーチェ",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "ハイデガー",
+    "name": "ハイデガー",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "ハヴェル",
+    "name": "ハヴェル",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "パスカル",
+    "name": "パスカル",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "ハンナ・アーレント",
+    "name": "ハンナ・アーレント",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "ファノン",
+    "name": "ファノン",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "フッサール",
+    "name": "フッサール",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "ブッダ",
+    "name": "ブッダ",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "ブラッドベリ",
+    "name": "ブラッドベリ",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "プラトン",
+    "name": "プラトン",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "ブラム・ストーカー",
+    "name": "ブラム・ストーカー",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "フランツ・カフカ",
+    "name": "フランツ・カフカ",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "ブルデュー",
+    "name": "ブルデュー",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "フロイト",
+    "name": "フロイト",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "フロム",
+    "name": "フロム",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "ヘーゲル",
+    "name": "ヘーゲル",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "ヘミングウェイ",
+    "name": "ヘミングウェイ",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "ボーヴォワール",
+    "name": "ボーヴォワール",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "マーガレット・ミッチェル",
+    "name": "マーガレット・ミッチェル",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "マキャベリ",
+    "name": "マキャベリ",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "マルクス",
+    "name": "マルクス",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "マルクス・アウレリウス",
+    "name": "マルクス・アウレリウス",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "ミヒャエル・エンデ",
+    "name": "ミヒャエル・エンデ",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "メアリ・シェリー",
+    "name": "メアリ・シェリー",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "モンゴメリ",
+    "name": "モンゴメリ",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "ヤスパース",
+    "name": "ヤスパース",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "ユゴー",
+    "name": "ユゴー",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "ヨハンナ・シュピリ",
+    "name": "ヨハンナ・シュピリ",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "ラッセル",
+    "name": "ラッセル",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "ル・ボン",
+    "name": "ル・ボン",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "ルソー",
+    "name": "ルソー",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "レヴィ＝ストロース",
+    "name": "レヴィ＝ストロース",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "ローティ",
+    "name": "ローティ",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "ロジェ・カイヨワ",
+    "name": "ロジェ・カイヨワ",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "ロフティング",
+    "name": "ロフティング",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "安克昌",
+    "name": "安克昌",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "安部公房",
+    "name": "安部公房",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "岡倉天心",
+    "name": "岡倉天心",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "夏目漱石",
+    "name": "夏目漱石",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "河合隼雄",
+    "name": "河合隼雄",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "鴨長明",
+    "name": "鴨長明",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "吉本隆明",
+    "name": "吉本隆明",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "宮沢賢治",
+    "name": "宮沢賢治",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "宮本常一",
+    "name": "宮本常一",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "宮本武蔵",
+    "name": "宮本武蔵",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "兼好法師",
+    "name": "兼好法師",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "呉兢",
+    "name": "呉兢",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "孔子",
+    "name": "孔子",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "洪自誠",
+    "name": "洪自誠",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "坂口安吾",
+    "name": "坂口安吾",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "三島由紀夫",
+    "name": "三島由紀夫",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "三木清",
+    "name": "三木清",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "司馬遼太郎",
+    "name": "司馬遼太郎",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "紫式部",
+    "name": "紫式部",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "渋沢栄一",
+    "name": "渋沢栄一",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "小松左京",
+    "name": "小松左京",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "小泉八雲",
+    "name": "小泉八雲",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "松尾芭蕉",
+    "name": "松尾芭蕉",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "松本清張",
+    "name": "松本清張",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "新渡戸稲造",
+    "name": "新渡戸稲造",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "神谷美恵子",
+    "name": "神谷美恵子",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "親鸞",
+    "name": "親鸞",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "世阿弥",
+    "name": "世阿弥",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "清少納言",
+    "name": "清少納言",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "西郷隆盛",
+    "name": "西郷隆盛",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "西田幾多郎",
+    "name": "西田幾多郎",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "石牟礼道子",
+    "name": "石牟礼道子",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "折口信夫",
+    "name": "折口信夫",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "村上春樹",
+    "name": "村上春樹",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "太宰治",
+    "name": "太宰治",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "大岡昇平",
+    "name": "大岡昇平",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "大江健三郎",
+    "name": "大江健三郎",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "谷崎潤一郎",
+    "name": "谷崎潤一郎",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "知里幸恵",
+    "name": "知里幸恵",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "中井久夫",
+    "name": "中井久夫",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "中江兆民",
+    "name": "中江兆民",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "陳寿",
+    "name": "陳寿",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "道元",
+    "name": "道元",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "内村鑑三",
+    "name": "内村鑑三",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "福沢諭吉",
+    "name": "福沢諭吉",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "福澤諭吉",
+    "name": "福澤諭吉",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "北條民雄",
+    "name": "北條民雄",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "柳田國男",
+    "name": "柳田國男",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "唯円",
+    "name": "唯円",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "有吉佐和子",
+    "name": "有吉佐和子",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "良寛",
+    "name": "良寛",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  },
+  {
+    "id": "林芙美子",
+    "name": "林芙美子",
+    "description": "",
+    "externalLinks": {},
+    "role": "author"
+  }
+]
