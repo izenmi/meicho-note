@@ -58,8 +58,8 @@ function buySection(book, covers) {
     </div>`)}
     ${when(text, () => `
     <div class="buy__group">
-      <h3>番組テキストで読み解きを追う</h3>
-      <p>NHKテキスト『100分de名著』の該当月号です。指南役による解説がまとまっています。</p>
+      <h3>番組の解説書で読み解きを追う</h3>
+      <p>指南役による解説をまとめた書籍です。放送当時の月刊テキストは品切れのことが多いため、いま新刊で手に入る「NHK「100分de名著」ブックス」版などを挙げています。</p>
       ${buyItem(text)}
     </div>`)}
     ${when(related.length, () => `
