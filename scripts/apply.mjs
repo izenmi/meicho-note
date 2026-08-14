@@ -47,6 +47,19 @@ for (const [id, patch] of Object.entries(batch)) {
   }
   if (book.lead && book.overview) overwrites.push(id);
 
+  // `books` だけは丸ごと置き換えない。scripts/books.mjs が解決した books.text の ISBN を、
+  // 後から当てたバッチが消してしまう事故を実際に起こしたため（バッチ6以降で33件→19件に減った）。
+  // バッチ側が isbn を持たないときは、既存の isbn を残す。
+  if (patch.books) {
+    const prevText = book.books?.text;
+    patch.books = {
+      text: patch.books.text
+        ? { ...prevText, ...patch.books.text, isbn: patch.books.text.isbn ?? prevText?.isbn }
+        : (prevText ?? null),
+      original: patch.books.original ?? book.books?.original ?? [],
+      related: patch.books.related ?? book.books?.related ?? [],
+    };
+  }
   Object.assign(book, patch, { updatedAt: TODAY });
   if (WRITE) writeFileSync(target, JSON.stringify(book, null, 2) + "\n");
   applied++;

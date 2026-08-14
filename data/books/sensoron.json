@@ -78,8 +78,9 @@
   "whoShouldRead": "戦争を糾弾以外の言葉で考えたい人。人が集団に高揚する仕組みに関心がある人。祭りや遊びの社会学に興味がある人。",
   "books": {
     "text": {
-      "title": "NHK「100分de名著」ブックス カイヨワ 戦争論",
-      "publishedYear": 2019
+      "title": "NHK「100分de名著」ブックス ロジェ・カイヨワ 戦争論",
+      "isbn": "9784140819692",
+      "publishedYear": 2024
     },
     "original": [
       {
